@@ -17,6 +17,12 @@
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
 }
 
+@media only screen and (max-width: 700px) {
+  .cards__card {
+    width: 95%;
+  }
+}
+
 .cards__card:hover {
   top: -2px;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
@@ -61,7 +67,7 @@
   }
 }
 
-@media only screen and (max-width: 768px) {
+@media only screen and (max-width: 500px) {
   .cards__description__title {
     font-size: 20px;
   }

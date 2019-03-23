@@ -22,6 +22,12 @@
   background-position: center center;
 }
 
+@media only screen and (max-width: 700px) {
+  .favorites__favorite {
+    width: 95%;
+  }
+}
+
 .favorites__favorite:hover {
   top: -2px;
   box-shadow: 0 4px 5px rgba(0, 0, 0, 0.2);
