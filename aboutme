@@ -1,0 +1,50 @@
+<main class="intros">
+  <section class="intros__intro">
+    <div class="intros__title">- hello Stranger -</div>
+    <div class="intros__contents">
+      텍스트로 무언가를 접하고 이해하고 만들어냅니다.<br />
+      그리고 그렇게 텍스트로 삶을 쌓아올립니다.<br />차근차근 천천히.
+    </div>
+  </section>
+  <section class="intros__intro">
+    <div class="intros__title">- dots -</div>
+    <div class="intros__contents">
+      잠신중학교, 청담고등학교<br />
+      한국외국어대학교 중국지역학, 문화콘텐츠학<br />
+      S.O.P.T 17~18th 기획, 디자인 파트<br />
+      Startup Grind Univ, Seoul
+    </div>
+  </section>
+  <section class="intros__intro intros__intro__contact">
+    <div class="intros__title">- contact -</div>
+    <div class="intros__box">
+      <div class="intros__email">appsforwriters@gmail.com</div>
+      <div class="intros__links">
+        <a
+          href="https://www.instagram.com/jwluoe/"
+          class="intros__links__link"
+          target="_blank"
+          ><i class="fab fa-instagram"></i>
+        </a>
+        <a
+          href="https://www.facebook.com/victorlee917"
+          class="intros__links__link"
+          target="_blank"
+        >
+          <i class="fab fa-facebook-f"></i>
+        </a>
+        <a
+          href="https://brunch.co.kr/@vicotorlee"
+          class="intros__links__link"
+          target="_blank"
+        >
+          <img
+            src="images/brunch.png"
+            alt="brunch icon"
+            class="brunch-icon"
+        /></a>
+      </div>
+    </div>
+  </section>
+  <div class="end">- end -</div>
+</main>

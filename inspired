@@ -1,0 +1,241 @@
+<main class="favorites">
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://cdn.theatlantic.com/assets/media/img/mt/2016/12/OA_107_02953R_THE_OTHERS/lead_720_405.jpg?mod=1533691863);"
+  >
+    <div class="favorites__title">The OA</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fo.aolcdn.com%2Fimages%2Fdims%3Fresize%3D2000%252C2000%252Cshrink%26image_uri%3Dhttps%253A%252F%252Fs.yimg.com%252Fos%252Fcreatr-uploaded-images%252F2019-02%252Fd613f970-2fff-11e9-abff-e5f6a26b8001%26client%3Da1acac3e1b3290917d92%26signature%3De8c4cbe9ee412b03a2575552deceb7f7cc2bf963&client=amp-blogside-v2&signature=186f94e3fd530c0c943c2ec09e5cd182d681268e);"
+  >
+    <div class="favorites__title">Alita</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(http://povmagazine.com/images/made/images/articles/Life_is_Fruity_720_405_90.jpg);"
+  >
+    <div class="favorites__title">Life is Fruity</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2019/01/14/Pictures/_3e47c788-17b9-11e9-9a47-fd04d5270281.jpg);"
+  >
+    <div class="favorites__title">Sex Education</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://media.wired.com/photos/5bbe27fd9d86a52d3f1d02fb/master/w_2400,c_limit/FirstMan_2493_D051_00228R.jpg);"
+  >
+    <div class="favorites__title">First Man</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://wallpapercave.com/wp/wp1843940.jpg);"
+  >
+    <div class="favorites__title">Ghost in the Shell 1995</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://cdn1.thr.com/sites/default/files/imagecache/list_landscape_960x541/2017/12/image-ab8b4ea4-8a8a-4408-9fad-fe44303c32a1_copy_-_h_2017.jpg);"
+  >
+    <div class="favorites__title">Shape of Water</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://wallpapercave.com/wp/wp2398065.png);"
+  >
+    <div class="favorites__title">The End of The F***ing World</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://timedotcom.files.wordpress.com/2017/10/blade-runner-2049-q-and-a-04.jpg);"
+  >
+    <div class="favorites__title">Blade Runner 2049</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://timedotcom.files.wordpress.com/2017/02/arrival-cinematography-oscars-10747_r.jpg);"
+  >
+    <div class="favorites__title">Arrival</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://dynamic.indigoimages.ca/books/1788282361.jpg?altimages=false&scaleup=true&maxheight=515&width=380&quality=85&sale=0&lang=en);"
+  >
+    <div class="favorites__title">1984</div>
+    <!-- <span class="favorites__genre">novel</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://cdn-images-1.medium.com/max/1600/0*fOBfe7Lw1Pyn252R.jpg);"
+  >
+    <div class="favorites__title">interstellar</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://o.aolcdn.com/images/dims?quality=85&image_uri=https%3A%2F%2Fs.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Ffb8b56b70ddbaefa940b327fdbc848fc%2F206268383%2Fready-lede.jpg&client=amp-blogside-v2&signature=fce628e2befe767bd1e59e99ddffac01c3561d76);"
+  >
+    <div class="favorites__title">Ready Player One</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://images8.alphacoders.com/783/thumb-1920-783548.png);"
+  >
+    <div class="favorites__title">Shouwa Genroku Rakugo Shinjuu</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://i.redd.it/sfahx09ivva11.png);"
+  >
+    <div class="favorites__title">Evangelion</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://static.independent.co.uk/s3fs-public/thumbnails/image/2018/01/05/13/black-mirror-logo.jpg);"
+  >
+    <div class="favorites__title">Black Mirror</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7VQ7S9xARg607Y1sNa5I-iCAauQvzHXZGH2iexDPCz69vivbzMg);"
+  >
+    <div class="favorites__title">LaLa Land</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://2.bp.blogspot.com/-p2RmQsFe3m8/VvwMRzEaRyI/AAAAAAAAFcw/CwRKjZJOB4E9lOiCsj34qcXCJnWIGplcA/s1600/Chungking2.jpg);"
+  >
+    <div class="favorites__title">Chungking Express</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://www.factinate.com/wp-content/uploads/2017/04/333.jpg);"
+  >
+    <div class="favorites__title">Inglourious Basterds</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(http://fgmxi4acxur9qbg31y9s3a15-wpengine.netdna-ssl.com/wp-content/uploads/sites/2/2016/04/Demolition-movie-stills.png);"
+  >
+    <div class="favorites__title">Demolition</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://cdn-images-1.medium.com/max/1600/0*RySQy99X95wwYWuN.jpg);"
+  >
+    <div class="favorites__title">Pan's Labyrinth</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://s01.sgp1.cdn.digitaloceanspaces.com/article/110951-qtztgibndt-1547885782.jpg);"
+  >
+    <div class="favorites__title">Begin Again</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://dazedimg-dazedgroup.netdna-ssl.com/900/azure/dazed-prod/1120/2/1122563.jpg);"
+  >
+    <div class="favorites__title">Inception</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://img.maximummedia.ie/her_ie/eyJkYXRhIjoie1widXJsXCI6XCJodHRwOlxcXC9cXFwvbWVkaWEtaGVyLm1heGltdW1tZWRpYS5pZS5zMy5hbWF6b25hd3MuY29tXFxcL3dwLWNvbnRlbnRcXFwvdXBsb2Fkc1xcXC8yMDE3XFxcLzAxXFxcLzEyMTczOTM3XFxcL3AxMS1zaG9qaS13aGlwbGFzaC1hLTIwMTUwNDE2LTEwMjR4NTM4LmpwZ1wiLFwid2lkdGhcIjo3NjcsXCJoZWlnaHRcIjo0MzEsXCJkZWZhdWx0XCI6XCJodHRwczpcXFwvXFxcL3d3dy5oZXIuaWVcXFwvYXNzZXRzXFxcL2ltYWdlc1xcXC9oZXJcXFwvbm8taW1hZ2UucG5nP3Y9MjJcIixcIm9wdGlvbnNcIjpbXX0iLCJoYXNoIjoiN2Q2NTYwYWUzODFmZDI5OGMxN2FiYTMzNzg2MDQ0OGU3YWM2NmUyZiJ9/p11-shoji-whiplash-a-20150416-1024x538.jpg);"
+  >
+    <div class="favorites__title">Whiplash</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://i.ytimg.com/vi/i-MAErg8q0w/maxresdefault.jpg);"
+  >
+    <div class="favorites__title">Mononoke Hime</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://mondrian.mashable.com/2014%252F01%252F15%252F3f%252Fhrsinglryt8.22b0e.jpg%252F950x534__filters%253Aquality%252890%2529.jpg?signature=UtUqTsD4rWhUwcmlCc5f7zUVm1g=);"
+  >
+    <div class="favorites__title">Her</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://static.mfah.com/app/images/04cc849f-4f82-4995-a7d1-b09b776e4a8a.jpg?maxWidth=1600&maxHeight=1600&format=jpg&quality=90);"
+  >
+    <div class="favorites__title">Spirited Away</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://i2.wp.com/dailynexus.com/wp-content/uploads/2018/03/fullmetal-alchemist-exhibition-1.jpg);"
+  >
+    <div class="favorites__title">Fullmetal Alchemist</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://imgix.ranker.com/user_node_img/50068/1001348170/original/almost-everything-about-cast-away-is-totally-unconventional-photo-u3?w=650&q=50&fm=pjpg&fit=crop&crop=faces);"
+  >
+    <div class="favorites__title">Cast Away</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://wallpapers.moviemania.io/desktop/movie/423/f1859b/the-pianist-desktop-wallpaper.jpg?w=2552&h=1442);"
+  >
+    <div class="favorites__title">The Pianist</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://cdn1.thr.com/sites/default/files/imagecache/list_landscape_960x541/2016/03/Titanic_Still.jpg);"
+  >
+    <div class="favorites__title">Titanic</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(http://hdqwalls.com/wallpapers/forrest-gump-kp.jpg);"
+  >
+    <div class="favorites__title">Forrest Gump</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://cdn1.thr.com/sites/default/files/imagecache/landscape_928x523/2018/03/the_shawshank_redemption_-_h_-_1994.jpg);"
+  >
+    <div class="favorites__title">The Shawshank Redemption</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div
+    class="favorites__favorite"
+    style="background-image: url(https://o.aolcdn.com/images/dims?quality=85&image_uri=http%3A%2F%2Fo.aolcdn.com%2Fhss%2Fstorage%2Fmidas%2Fc329c1bb8b04b64abfe374f7dbcd68c9%2F205857767%2Flotr.jpg&client=amp-blogside-v2&signature=49873d643dc8da60cc0ab4efb668a1ba01489fd5);"
+  >
+    <div class="favorites__title">Lord of the Rings</div>
+    <!-- <span class="favorites__genre">movie</span> -->
+  </div>
+  <div class="end">- end -</div>
+</main>

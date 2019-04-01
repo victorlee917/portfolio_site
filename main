@@ -1,0 +1,167 @@
+<main class="cards">
+  <!--
+    <section class="cards__card">
+      <div
+        class="thumb"
+        style="background-image: url(images/wuhuaguo.jpg);"
+      ></div>
+      <div class="cards__box">
+        <div class="cards__description">
+          <span class="cards__description__title">무화과</span>
+          <span class="cards__description__contents">Writing</span>
+          <span class="cards__description__date">2017/06/08</span>
+        </div>
+        <div class="cards__links">
+          <a
+            href="https://ridibooks.com/v2/Detail?id=645000301&_s=instant&_q=creature"
+            class="cards__links__link"
+            target="_blank"
+            ><i class="fas fa-link"></i
+          ></a>
+          <a
+            href="files/wuhuaguo.pdf"
+            download
+            class="cards__links__link"
+            target="_blank"
+            ><i class="fas fa-download"></i
+          ></a>
+        </div>
+      </div>
+    </section>
+  -->
+  <section class="cards__card">
+    <div
+      class="thumb"
+      style="background-image: url(images/free.png);"
+    ></div>
+    <div class="cards__box">
+      <div class="cards__description">
+        <span class="cards__description__title">Free Writing App</span>
+        <span class="cards__description__contents">Web Design</span>
+        <span class="cards__description__date">2019/03/04</span>
+      </div>
+      <div class="cards__links">
+        <a
+          href="https://free-writing.org"
+          class="cards__links__link"
+          target="_blank"
+          ><i class="fas fa-link"></i
+        ></a>
+      </div>
+    </div>
+  </section>
+  <section class="cards__card">
+    <div
+      class="thumb"
+      style="background-image: url(images/free_beta.png);"
+    ></div>
+    <div class="cards__box">
+      <div class="cards__description">
+        <span class="cards__description__title"
+          >Free Writing App Beta</span
+        >
+        <span class="cards__description__contents">Web Design</span>
+        <span class="cards__description__date">2018/09/17</span>
+      </div>
+      <div class="cards__links">
+        <a
+          href="https://victorlee917.github.io/freewriting_beta/index.html"
+          class="cards__links__link"
+          target="_blank"
+          ><i class="fas fa-link"></i
+        ></a>
+      </div>
+    </div>
+  </section>
+  <section class="cards__card">
+    <div
+      class="thumb"
+      style="background-image: url(http://hufsaustralia.com/wp-content/uploads/sites/5/2018/01/HUFS-meet-the-world.png);"
+    ></div>
+    <div class="cards__box">
+      <div class="cards__description">
+        <span class="cards__description__title"
+          >Hufs App prototype</span
+        >
+        <span class="cards__description__contents">Framer</span>
+        <span class="cards__description__date">2014/08/30</span>
+      </div>
+      <div class="cards__links">
+        <a
+          href="https://www.youtube.com/watch?v=FmPCZD-Kp2Q&feature=youtu.be"
+          class="cards__links__link"
+          target="_blank"
+          ><i class="fas fa-link"></i
+        ></a>
+      </div>
+    </div>
+  </section>
+  <section class="cards__card">
+    <div
+      class="thumb"
+      style="background-image: url(http://guardianlv.com/wp-content/uploads/2014/01/NASA-Observes-Nearby-Supernova-Explosion-650x406.jpg);"
+    ></div>
+    <div class="cards__box">
+      <div class="cards__description">
+        <span class="cards__description__title">초신성</span>
+        <span class="cards__description__contents">Writing</span>
+        <span class="cards__description__date">2018/03/05</span>
+      </div>
+      <div class="cards__links">
+        <a
+          href="files/chaoxinxing.pdf"
+          download
+          class="cards__links__link"
+          target="_blank"
+          ><i class="fas fa-download"></i
+        ></a>
+      </div>
+    </div>
+  </section>
+  <section class="cards__card">
+    <div
+      class="thumb"
+      style="background-image: url(images/wuhuaguo2.jpeg);"
+    ></div>
+    <div class="cards__box">
+      <div class="cards__description">
+        <span class="cards__description__title">무화과</span>
+        <span class="cards__description__contents">Writing</span>
+        <span class="cards__description__date">2017/06/08</span>
+      </div>
+      <div class="cards__links">
+        <a
+          href="files/wuhuaguo.pdf"
+          download
+          class="cards__links__link"
+          target="_blank"
+          ><i class="fas fa-download"></i
+        ></a>
+      </div>
+    </div>
+  </section>
+  <section class="cards__card">
+    <div
+      class="thumb"
+      style="background-image: url(images/cc.png);"
+    ></div>
+    <div class="cards__box">
+      <div class="cards__description">
+        <span class="cards__description__title"
+          >Creatures's Creativity</span
+        >
+        <span class="cards__description__contents">Writing</span>
+        <span class="cards__description__date">2014/11/06</span>
+      </div>
+      <div class="cards__links">
+        <a
+          href="https://ridibooks.com/v2/Detail?id=645000301&_s=instant&_q=creature"
+          class="cards__links__link"
+          target="_blank"
+          ><i class="fas fa-link"></i
+        ></a>
+      </div>
+    </div>
+  </section>
+  <div class="end">- end -</div>
+</main>
