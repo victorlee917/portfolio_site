@@ -17,6 +17,7 @@
       function fetchPage(name) {
         fetch(name).then(function(response) {
           response.text().then(function(text) {
+            console.log("dongzuo");
             document.querySelector("#contents").innerHTML = text;
           });
         });
