@@ -13,8 +13,6 @@
     <title>Junwoo Lee</title>
     <link rel="stylesheet" href="css/style.css" />
     <link rel="icon" type="image/png" href="images/favicon.png" />
-  </head>
-  <body>
     <script>
       function fetchPage(name) {
         fetch(name).then(function(response) {
@@ -30,6 +28,8 @@
         fetchPage("main");
       }
     </script>
+  </head>
+  <body>
     <div class="box">
       <header class="header">
         <img
@@ -42,7 +42,7 @@
       </header>
       <nav class="nav">
         <div class="nav__am">
-          <a class="nav__link" onlick="fetchPage(aboutme);" href="#!aboutme"
+          <a class="nav__link" onlick="fetchPage('aboutme');" href="#!aboutme"
             >about me</a
           >
           <div class="nav__bar"></div>
@@ -50,14 +50,14 @@
         <div class="nav__pf">
           <a
             class="nav__link nav__link--selected"
-            onlick="fetchPage(main)"
+            onlick="fetchPage('main')"
             href="#!main"
             >portfolio</a
           >
           <div class="nav__bar nav__bar--selected"></div>
         </div>
         <div class="nav__ct">
-          <a class="nav__link" onlick="fetchPage(inspired);" href="#!inspired"
+          <a class="nav__link" onlick="fetchPage('inspired');" href="#!inspired"
             >my taste</a
           >
           <div class="nav__bar"></div>
