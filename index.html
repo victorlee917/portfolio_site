@@ -14,18 +14,18 @@
     <link rel="stylesheet" href="css/style.css" />
     <link rel="icon" type="image/png" href="images/favicon.png" />
     <script>
-      function fetchPage(name){
-        fetch(name).then(function(response){
+      function fetchPage(name) {
+        fetch(name).then(function(response) {
           response.text().then(function(text) {
-            document.querySelector("#contents")=text;
+            document.querySelector("#contents").innerHTML = text;
           });
         });
       }
-      if(location.hash){
-         fetchPage(location.hash.substr(2));
-       } else {
-         fetchPage('main');
-       }
+      if (location.hash) {
+        fetchPage(location.hash.substr(2));
+      } else {
+        fetchPage("main");
+      }
     </script>
   </head>
   <body>
