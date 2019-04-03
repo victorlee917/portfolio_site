@@ -17,7 +17,6 @@
       function fetchPage(name) {
         fetch(name).then(function(response) {
           response.text().then(function(text) {
-            console.log("dongzuo");
             document.querySelector("#contents").innerHTML = text;
           });
         });
@@ -30,7 +29,7 @@
     </script>
   </head>
   <body>
-    <div class="box">
+    <div class="box" id="contents">
       <header class="header">
         <img
           src="images/profile.jpg"
@@ -66,7 +65,6 @@
           <div class="nav__bar"></div>
         </div>
       </nav>
-      <div id="contents"></div>
     </div>
   </body>
 </html>

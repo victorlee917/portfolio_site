@@ -1,3 +1,38 @@
+<header class="header">
+  <img
+    src="images/profile.jpg"
+    alt="profile_image"
+    class="header__image"
+  />
+  <div class="header__name">Junwoo Lee</div>
+  <div class="header__message">Dreamer</div>
+</header>
+<nav class="nav">
+  <div class="nav__am">
+    <a class="nav__link" onclick="fetchPage('aboutme');" href="#!aboutme"
+      >about me</a
+    >
+    <div class="nav__bar"></div>
+  </div>
+  <div class="nav__pf">
+    <a
+      class="nav__link nav__link--selected"
+      onclick="fetchPage('main')"
+      href="#!main"
+      >portfolio</a
+    >
+    <div class="nav__bar"></div>
+  </div>
+  <div class="nav__ct nav__bar--selected">
+    <a
+      class="nav__link"
+      onclick="fetchPage('inspired');"
+      href="#!inspired"
+      >my taste</a
+    >
+    <div class="nav__bar"></div>
+  </div>
+</nav>
 <main class="favorites">
   <div
     class="favorites__favorite"
