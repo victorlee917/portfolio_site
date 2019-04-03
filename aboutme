@@ -9,14 +9,14 @@
 </header>
 <nav class="nav">
   <div class="nav__am">
-    <a class="nav__link nav__bar--selected" onclick="fetchPage('aboutme');" href="#!aboutme"
+    <a class="nav__link nav__link--selected" onclick="fetchPage('aboutme');" href="#!aboutme"
       >about me</a
     >
-    <div class="nav__bar"></div>
+    <div class="nav__bar nav__bar--selected"></div>
   </div>
   <div class="nav__pf">
     <a
-      class="nav__link nav__link--selected"
+      class="nav__link"
       onclick="fetchPage('main')"
       href="#!main"
       >portfolio</a
