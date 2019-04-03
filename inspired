@@ -23,9 +23,9 @@
     >
     <div class="nav__bar"></div>
   </div>
-  <div class="nav__ct nav__link--selected">
+  <div class="nav__ct">
     <a
-      class="nav__link"
+      class="nav__link nav__link--selected"
       onclick="fetchPage('inspired');"
       href="#!inspired"
       >my taste</a
