@@ -76,12 +76,9 @@
         <span class="cards__description__date">2019/03/04</span>
       </div>
       <div class="cards__links">
-        <a
-          href="https://free-writing.org"
+        <span
           class="cards__links__link"
-          target="_blank"
-          ><i class="fas fa-link"></i
-        ></a>
+          ><i class="fas fa-wrench"></i></span>
       </div>
     </div>
   </section>
