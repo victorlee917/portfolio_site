@@ -34,36 +34,29 @@
   </div>
 </nav>
 <main class="cards">
-  <!--
-    <section class="cards__card">
-      <div
-        class="thumb"
-        style="background-image: url(images/wuhuaguo.jpg);"
-      ></div>
-      <div class="cards__box">
-        <div class="cards__description">
-          <span class="cards__description__title">무화과</span>
-          <span class="cards__description__contents">Writing</span>
-          <span class="cards__description__date">2017/06/08</span>
-        </div>
-        <div class="cards__links">
-          <a
-            href="https://ridibooks.com/v2/Detail?id=645000301&_s=instant&_q=creature"
-            class="cards__links__link"
-            target="_blank"
-            ><i class="fas fa-link"></i
-          ></a>
-          <a
-            href="files/wuhuaguo.pdf"
-            download
-            class="cards__links__link"
-            target="_blank"
-            ><i class="fas fa-download"></i
-          ></a>
-        </div>
-      </div>
-    </section>
-  -->
+<section class="cards__card">
+  <div
+    class="thumb"
+    style="background-image: url(images/tides.png);"
+  ></div>
+  <div class="cards__box">
+    <div class="cards__description">
+      <span class="cards__description__title"
+        >tides</span
+      >
+      <span class="cards__description__contents">Web Design</span>
+      <span class="cards__description__date">2019/05/20</span>
+    </div>
+    <div class="cards__links">
+      <a
+        href="https://tides.link"
+        class="cards__links__link"
+        target="_blank"
+        ><i class="fas fa-link"></i
+      ></a>
+    </div>
+  </div>
+</section>
   <section class="cards__card">
     <div
       class="thumb"
